@@ -1,8 +1,8 @@
 **🚀 CLI Bot to Wrap Your SOL to wSOL**
 
-This guide will help you run the SOL to wSOL bot, covering both testing in Devnet and deploying it on Mainnet.
+This guide helps you convert SOL to wSOL, both in Devnet and on Mainnet.
 
-**🧪 Test the Bot in Devnet**
+**🧪 Testing the Bot in Devnet**
 
 Testing in Devnet allows you to safely verify the bot’s functionality without using real assets. Follow these steps:
 
@@ -26,7 +26,7 @@ After configuring the RPC URL and funding your wallet, execute the bot script to
 
 `npm run start`
 
-**🌐 Run the Bot on Mainnet**
+**🌐 Running the Bot on Mainnet**
 
 After successful testing in Devnet, you can proceed to use it on Mainnet to handle real SOL. Follow these steps:
 
@@ -45,7 +45,6 @@ Run the Bot on Mainnet
 Execute the bot script to wrap SOL on Mainnet:
 
 `npm run start`
-
 
 **💡 Tips**
 
