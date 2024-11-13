@@ -27,6 +27,7 @@ After configuring the RPC URL and funding your wallet, execute the bot script to
 **npm run start**
 
 🌐 **Run the Bot on Mainnet**
+
 After successful testing in Devnet, you can proceed to use it on Mainnet to handle real SOL. Follow these steps:
 
 Update RPC URL to Mainnet
