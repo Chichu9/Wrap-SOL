@@ -6,7 +6,7 @@ This guide helps you convert SOL to wSOL, both in Devnet and on Mainnet.
 
 Testing in Devnet allows you to safely verify the bot’s functionality without using real assets. Follow these steps:
 
-Update RPC URL to Devnet
+**Update RPC URL to Devnet**
 
 Open the index.ts file and set the RPC URL to Devnet to use test tokens:
 
@@ -16,11 +16,11 @@ Set the amount of SOL you want to wrap:
 
 `const amountToWrap = 1; // Set the desired amount here`
 
-Fund Your Wallet with Test SOL
+**Fund Your Wallet with Test SOL**
 
 Visit the Solana Devnet Faucet and enter your wallet address to receive test SOL.
 
-Run the Bot on Devnet
+**Run the Bot on Devnet**
 
 After configuring the RPC URL and funding your wallet, execute the bot script to run it on Devnet:
 
@@ -30,7 +30,7 @@ After configuring the RPC URL and funding your wallet, execute the bot script to
 
 After successful testing in Devnet, you can proceed to use it on Mainnet to handle real SOL. Follow these steps:
 
-Update RPC URL to Mainnet
+**Update RPC URL to Mainnet**
 
 Open the index.ts file and set the RPC URL to Mainnet to use real tokens:
 
@@ -40,7 +40,7 @@ Set the amount of SOL you want to wrap:
 
 `const amountToWrap = 1; // Set the desired amount here`
 
-Run the Bot on Mainnet
+**Run the Bot on Mainnet**
 
 Execute the bot script to wrap SOL on Mainnet:
 
